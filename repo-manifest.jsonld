@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/mkdocstrings/griffe-typingdoc/commit/685beab57f93219b1229f5bf9bb1a7165fff23f5",
       "git:hexsha": "685beab57f93219b1229f5bf9bb1a7165fff23f5",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.3.2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.3.2",
+      "repolex:parsedAt": "2026-10-10T22:24:36.466435+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mkdocstrings/griffe-typingdoc/commit/f0f28f8abd8f2c12936bf089ec83244b8176b740",
