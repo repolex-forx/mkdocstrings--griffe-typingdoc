@@ -1,0 +1,11 @@
+{
+  "org": "mkdocstrings",
+  "repo": "griffe-typingdoc",
+  "versions": [
+    {
+      "commit": "685beab57f93219b1229f5bf9bb1a7165fff23f5",
+      "tag": "0.3.2",
+      "parsed_at": "2026-10-10T22:24:36.555234+00:00"
+    }
+  ]
+}
